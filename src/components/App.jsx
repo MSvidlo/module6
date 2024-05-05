@@ -7,7 +7,7 @@ export const App = () => {
   return (
     <Layout>
       <AppBar />
-      <TaskForm />
+      <TaskForm/>
       <TaskList />
     </Layout>
   );
